@@ -8,7 +8,7 @@ Adobe Premiere Pro 2020 Basics \| Home Edition \(macOS\) for [Journalism, Advert
 
 ### Credits
 
-Written by Jeffrey John Loomis
+Written by JAMS Digital Media Specialist Jeffrey John Loomis
 
 ### Other formats
 
