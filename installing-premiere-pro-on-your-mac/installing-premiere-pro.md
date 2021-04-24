@@ -1,13 +1,10 @@
 # Installing Premiere Pro
 
-1. In a browser, go to the [Adobe Creative Cloud sign in screen](https://creativecloud.adobe.com).
-2. Enter your **UWM email address** and click **Continue**.
-3. If prompted, select **Company or School Account**. \(**Note**: At this point, you may need to enter your ePanther password.\)
-4. When prompted with **UWM 1Login screen**, enter your ePanther username and password. \(**Note**: If you see an **ERROR** screen, try the steps listed above again. It should work on the second attempt.\)
-5. In the Creative Cloud online interface, click **Apps** \(top left.\)
-6. In the **Apps** area, scroll through the available apps until you find **Premiere Pro**. Click the **Install** button. \(**Note**: Your computer may prompt you to enter your computer's user name and password. Be sure to use the username and password you use to log in to your computer--not your UWM credentials.\)
-7. An **Installing** progress wheel will appear in the **Apps** interface. Installation times will vary based on network speed.
-8. When installation is complete, **Premiere Pro** will appear in the **Applications** folder on your Mac.
+**Important**: When signing up for an Adobe Creative Cloud account, use a non-UWM email address. Your UWM email address will eventually expire, and when this happens, you will no longer be able to do a password reset on your Adobe CC account \(which may make accessing your account impossible.\)
+
+1. Check to make sure your computer meets the [minimum system requirements]().
+2. Go to the [Adobe Student Discount page](https://www.adobe.com/creativecloud/buy/students.html) and create an Adobe account using a non-UWM email address. **Note**: Even though you're signing up for a student discount account, you should use a non-UWM email address \(see above.\)
+3. Install the Adobe Creative Cloud app on your computer. Use the app to install Adobe CC programs. 
 
 ![](../.gitbook/assets/installing-adobe-programs-mac.png)
 
