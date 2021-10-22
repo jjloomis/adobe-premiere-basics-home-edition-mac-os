@@ -8,4 +8,3 @@
 ![Handheld mic, lavalier mic, or mult box clip settings.](../.gitbook/assets/adobe-premiere-audio-left-only-fix.png)
 
 ![Shotgun mic channel clip settings.](../.gitbook/assets/adobe-premiere-right-only-fix.png)
-
